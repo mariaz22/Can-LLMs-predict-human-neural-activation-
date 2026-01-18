@@ -1,0 +1,7 @@
+name: neural-nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - hdf5
+prefix: /home/horiaphilip/miniconda3/envs/neural-nlp
